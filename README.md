@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 👻<br><br>👩‍💻 Studying Computer Science at Gettysburg College, PA, US<br><br>💡 I want to become a Product Manager<br><br>🖌️ I write about my journey on my Medium<br><br>🎙️ I also talked about self-development on my Podcast<br><br>💻 And here's my Website! Check it out!<br><br>🪩 Currently, I am fulfilling my 30-day self-challenge of Coding to enhance my Technical Skills!
+Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 👻<br><br>👩‍💻 Studying Computer Science at Gettysburg College, PA, US<br><br>💡 I want to become a Product Manager<br><br>🖌️ I write about my journey on my [Medium](https://medium.com/@dntramanh19)<br><br>🎙️ I also talked about self-development on my [Podcast - Things I (Un)learned](https://podcasters.spotify.com/pod/show/things-i-unlearned)<br><br>💻 And here's my [Website](https://ameliado.framer.website)! Check it out!<br><br>🪩 Currently, I am fulfilling my 30-day self-challenge of Coding to enhance my Technical Skills!
 
 
 ## 🌐 Socials:
