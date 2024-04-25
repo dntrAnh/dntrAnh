@@ -3,7 +3,8 @@
 # 💫 About Me:
 Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 👻
 <br><br>👩‍💻 Studying Computer Science at Gettysburg College, PA, US
-<br><br>💡 I want to become a Product Manager
+<br><br>💡 I want to become a Software Engineer/ Product Manager
+
 <br><br>⭐️ I am studying React Native, Mobile App Development, Linear Algebra and Data Structures & Algorithm :) 
 <br><br>🖌️ I write about my journey on my [Medium](https://medium.com/@dntramanh19)
 <br><br>🎙️ I also talked about self-development on my [Podcast - Things I (Un)learned](https://podcasters.spotify.com/pod/show/things-i-unlearned)
