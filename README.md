@@ -5,7 +5,7 @@ Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 
 <br><br>👩‍💻 Studying Computer Science at Gettysburg College, PA, US
 <br><br>💡 I want to become a Software Engineer
 
-<br><br>⭐️ I am currently working on some of my side projects: a Where2Meet application using geospatial analysis, integrating Google Maps and Weather API to give to the best place for hang-out places. 
+<br><br>⭐️ I am currently working on some of my side projects: a Where2Meet application using geospatial analysis, integrating Google Maps and Weather API to give to the best suggestions for hang-out places. 
 <br><br>🫠 I'm studying Python (pandas and advanced pandas like geopandas :)), SQL for Database Management, and so much more! 
 <br><br>🖌️ I write about my journey on my [Medium](https://medium.com/@dntramanh19)
 <br><br>🎙️ I also talked about self-development on my [Podcast - Things I (Un)learned](https://podcasters.spotify.com/pod/show/things-i-unlearned)
