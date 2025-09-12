@@ -6,8 +6,6 @@ Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 
 <br><br>💡 I am looking for Intern roles, more specifically Full-Stack Software Engineer and Product Manager.
 
 <br><br>🖌️ I write about my journey on my [Medium](https://medium.com/@dntramanh19)
-<br><br>🎙️ I also talked about self-development on my [Podcast - Things I (Un)learned](https://podcasters.spotify.com/pod/show/things-i-unlearned)
-<br><br>💻 And here's my [Website](https://ameliado.framer.website)! Check it out!
 
 
 ## 🌐 Socials:
