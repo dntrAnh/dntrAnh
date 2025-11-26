@@ -3,7 +3,7 @@
 # 💫 About Me:
 Welcome to Amelia's GitHub ✨<br><br>Thanks for stopping by, it's Amelia here! 👻
 <br><br>👩‍💻 Studying Computer Science at Gettysburg College, PA, US
-<br><br>💡 I am looking for Intern roles, more specifically Full-Stack Software Engineer and Product Manager.
+<br><br>💡 I am looking for new-grad roles, more specifically Full-Stack Software Engineer and Product Manager.
 
 <br><br>🖌️ I write about my journey on my [Medium](https://medium.com/@dntramanh19)
 
